@@ -1,6 +1,6 @@
 .car{
     position: relative;
-    animation: car_moving 4s ease-in-out
+    animation: car_moving 4s ease-in-out forwards
 }
 
 .box{
