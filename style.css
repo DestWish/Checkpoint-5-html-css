@@ -37,7 +37,7 @@
 
 @keyframes car_moving {    
     from {
-        left: -200;
+        left: -200px;
     }
 
     to {
